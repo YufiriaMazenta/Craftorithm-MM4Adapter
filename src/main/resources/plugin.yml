@@ -1,0 +1,8 @@
+name: CraftorithmMM4Adapter
+version: '${version}'
+main: com.github.yufiriamazenta.cm4a.MM4Adapter
+api-version: 1.13
+load: POSTWORLD
+depend: [ MythicMobs, Craftorithm ]
+authors: [ YufiriaMazenta ]
+folia-supported: true
